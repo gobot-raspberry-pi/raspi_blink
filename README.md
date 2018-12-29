@@ -31,6 +31,10 @@ Blinking LED sample project using GOBOT
       2018/12/29 12:05:29 Starting device LED-5427BD0 on pin 7...
       2018/12/29 12:05:29 Starting work...
     ```
+    and your LED should be blinking every second.
+    
+    - `Ctrl + c` to stop
+ 
 ## Notes
 
 1. LED, short wire should be connected to the resitor. On the diagram, the short wire is the straight one, the one with a curve is the long wire.
