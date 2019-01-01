@@ -40,3 +40,4 @@ Blinking LED sample project using GOBOT
 1. LED, short wire should be connected to the resitor. On the diagram, the short wire is the straight one, the one with a curve is the long wire.
 2. Connect only the GRD part, the one to be controlled is the power in this case it's PIN 7.
 3. You could test if your connectivity is correct by connecting the power source to PIN 1 (3.3V).
+4. See this [link](http://led.linear1.org/led.wiz) to compute for the resistor to use.
